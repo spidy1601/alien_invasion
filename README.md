@@ -1,6 +1,6 @@
 # alien_invasion
 
-You can play this game by cloning it and run alien_invasion.py using python interpreter
+You can play this game by cloning this and run alien_invasion.py using python interpreter
 
 GamePlay:
 
